@@ -12,5 +12,6 @@ body {
 }
 
 .right {
+   float: left;
    width: 75%;
 }
