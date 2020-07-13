@@ -8,10 +8,11 @@ body {
 }
 .left {
    padding: 10px;
-  float: left;
-  height: 100%;
+   float: left;
+   height: 100%;
    width: 300px;
    background-color: #23272a;
+   font-size: 40px;
 }
 
 .right {
