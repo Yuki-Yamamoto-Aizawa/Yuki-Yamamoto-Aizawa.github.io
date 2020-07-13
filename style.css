@@ -3,8 +3,11 @@ body {
    text-align: left;
    background-color: #2c2f33;
    font-family: "Lucida Console", Courier, monospace;
+   padding: 0;
+   margin: 0;
 }
 .left {
+   padding: 10px;
   float: left;
   height: 100%;
    width: 25%;
@@ -12,6 +15,7 @@ body {
 }
 
 .right {
+   padding: 10px;
    float: left;
    width: 75%;
 }
