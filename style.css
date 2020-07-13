@@ -4,3 +4,7 @@ body {
    background-color: #2c2f33;
    font-family: "Lucida Console", Courier, monospace;
 }
+.left {
+  float: left;
+  height: 100%;
+}
