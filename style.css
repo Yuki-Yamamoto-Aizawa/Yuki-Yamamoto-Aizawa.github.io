@@ -7,4 +7,10 @@ body {
 .left {
   float: left;
   height: 100%;
+   width: 25%
+   background-color: black;
+}
+
+.right {
+   width: 75%;
 }
